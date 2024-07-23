@@ -161,8 +161,8 @@ Alignment / Minimalism ?
 ### Part d)
 **What are the three important aspects of situational awareness? (3 points)**
 1. Perception of the elements in the environment
-2. Comprehension of the current situation
-3. Projection of future status
+2. Understanding
+3. Anticipation
 
 ### Part e)
 **Name two ways to improve the data-ink ratio in the following graph: (2 points)**
